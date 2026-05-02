@@ -67,7 +67,7 @@ Atualmente, direciono minha evolução para **Backend, Sistemas e Automação**,
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
 | Sistema de Controle de Produção | Java, SQL | Gerenciamento de ordens de produção e eficiência operacional |
-| API para Site Pessoal | JavaScript / Backend | API para gerenciamento de dados do portfólio |
+| [API para Site Pessoal](https://github.com/Abymael-hd/Curriculo-Web/tree/main) | JavaScript / Backend | API para gerenciamento de dados do portfólio |
 | Sistema com Banco de Dados | Java, MySQL | CRUD completo com modelagem relacional |
 | Projetos com Arduino | C++ | Lógica embarcada e automação básica |
 
