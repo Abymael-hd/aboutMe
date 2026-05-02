@@ -83,7 +83,7 @@ Quero atuar no desenvolvimento de soluções reais, principalmente integrando so
 
 ## 🌐 Contato
 
-📎 [LinkedIn](https://www.linkedin.com/in/abymael-henrique-1435b3239/)  
+📎 [LinkedIn](https://www.linkedin.com/in/abymael-hds)  
 📧 **E-mail:** abymael202@gmail.com  
 
 ---
